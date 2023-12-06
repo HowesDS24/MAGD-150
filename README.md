@@ -11,3 +11,9 @@ it, it turns off. The buttons were created by telling the browser that if a cert
 taken, like a specific key press or mouse click happens inside a certain perimiter, it will  
 do whatever you tell it to. 
 ## Assignment 8 
+Assignment 8 was our first experience with importing external things, such as pictures.  
+It was slightly more complicated than I expected, because the web browser does not allow  
+you to import these things for security reasons, so we had to use an app that created  
+a server where we could run the code. This made the whole learning process a bit more  
+difficult, because we were kind of programming "blind" in a way. We also learned how to  
+use text in p5.
